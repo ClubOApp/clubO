@@ -1,0 +1,22 @@
+html, body{
+    background: rgb(6, 6, 6);
+    color: white;
+    font-family: 'Open Sans';
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.general-text1{
+    font-size: 1.2rem;
+}
+
+.a1{
+    color: white;
+}
+
+.a1:hover{
+    color: aqua;
+    transition: color 0.2s ease-in;
+}
